@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-前置基础/计算机与音视频基础.md",
+                "file": "03-FFmpeg基础/媒体文件与容器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机与音视频基础"
+              "title": "媒体文件与容器"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-前置基础/计算机与音视频基础.md",
+                "file": "03-FFmpeg基础/媒体文件与容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-前置基础/计算机与音视频基础.md",
+                "file": "03-FFmpeg基础/媒体文件与容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-前置基础/计算机与音视频基础.md",
+                "file": "03-FFmpeg基础/媒体文件与容器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +191,17 @@
   },
   "active": "b6b3c4a498ec0797",
   "lastOpenFiles": [
-    "01-前置基础/阶段01-前置基础.md",
+    "03-FFmpeg基础/FFmpeg组件概览.md",
+    "03-FFmpeg基础/媒体文件与容器.md",
+    "notes_media_container.md",
+    "task_plan_media_container.md",
+    "03-FFmpeg基础/阶段03-FFmpeg基础.md",
     "01-前置基础/计算机与音视频基础.md",
+    "01-前置基础/阶段01-前置基础.md",
+    "notes_ffmpeg组件概览.md",
+    "task_plan_ffmpeg组件概览.md",
+    "notes.md",
+    "task_plan.md",
     "02-Windows开发环境/阶段02-Windows开发环境.md",
     "02-Windows开发环境/环境变量与DLL.md",
     "02-Windows开发环境/FFmpeg构建与安装.md",
